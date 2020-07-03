@@ -2,4 +2,4 @@
 A repo that will be linked to r studio
 
 
-[![deepcode](https://dchook.eu.ngrok.io/api/gh/badge?secretKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTM3Njk4MDF9.P5HYdqhUrZJK4FMUGL0He1Bf17tLZiDmI3kbuIJVZ8o)](https://deepcode.ai)
+[![deepcode](http://localhost:8080/api/gh/badge?secretKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTM3NzA2MTl9.VKcMrpUjyPw1_pq1dGozZvvyzd5yUG0TqPdmHvQD1Lg)(https://deepcode.ai)
